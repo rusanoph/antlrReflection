@@ -1,0 +1,16 @@
+{
+    "antlr4.generation": {
+        "mode": "external",
+        "generate": true,
+        "listeners": true,
+        "visitors": true,
+        "language": "Java",
+        "outputDir": "parser",
+        "package": "com.antlr.grammar.parser",
+    },
+    "antlr4.debug": {
+        "visualParseTreeHorizontal": true,
+        "visualParseTreeClustered": true
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
